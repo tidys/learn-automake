@@ -13,3 +13,5 @@ install-sh
 stamp-h1
 aclocal.m4
 config.status
+*.o
+*.exe
