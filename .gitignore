@@ -1,1 +1,15 @@
 autom4te.cache/
+src/.deps/
+config.h
+config.h.in
+config.log
+configure
+Makefile
+compile
+Makefile.in
+missing
+depcomp
+install-sh
+stamp-h1
+aclocal.m4
+config.status
